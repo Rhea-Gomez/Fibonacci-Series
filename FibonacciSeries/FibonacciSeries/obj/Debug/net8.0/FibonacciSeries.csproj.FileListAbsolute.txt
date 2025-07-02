@@ -1,0 +1,14 @@
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.exe
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.deps.json
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.runtimeconfig.json
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.dll
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\bin\Debug\net8.0\FibonacciSeries.pdb
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfoInputs.cache
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.AssemblyInfo.cs
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.dll
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\refint\FibonacciSeries.dll
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.pdb
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\FibonacciSeries.genruntimeconfig.cache
+D:\Training\Assignments\FibonacciSeries\FibonacciSeries\obj\Debug\net8.0\ref\FibonacciSeries.dll
